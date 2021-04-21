@@ -3,7 +3,7 @@
 /*===== VARIABLES CSS =====*/
 :root{
   --header-height: 3rem;
-  --font-semi: 600;
+  --font-semi: 620;
 }
 
 /*===== Colores =====*/
@@ -59,7 +59,7 @@ body{
   color: var(--second-color);
 }
 h1,h2,p{
-  margin: 0;
+  margin: 10%;
 }
 ul{
   margin: 0;
@@ -232,6 +232,7 @@ img{
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
+  Margin;10%;
 }
 .button:hover{
   box-shadow: 0 10px 36px rgba(0,0,0,.15);
